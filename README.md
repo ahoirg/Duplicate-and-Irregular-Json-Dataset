@@ -30,7 +30,7 @@ There are 4 json files.
 
 ## Files
 
-**students_orj.json**: Original Json file. Json objects are sequential. There are 400000 rows of data.
+**students_orj.json**: Original Json file. Json objects are sequential. There are 350000 rows of data.
 
 **students_dif_value.json**: Same with students_orj.json. Only the values ​​in the name column are different.
 
